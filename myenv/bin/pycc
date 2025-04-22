@@ -1,0 +1,3 @@
+#!/home/ug2021/ug521111910064/SparCC-master/myenv/bin/python3
+from numba.pycc import main
+main()

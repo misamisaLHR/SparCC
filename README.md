@@ -1,2 +1,0 @@
-# SparCC
-SparCC-Extended
